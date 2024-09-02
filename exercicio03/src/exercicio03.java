@@ -1,4 +1,3 @@
-package exercicio03;
 import java.util.ArrayList;
 
 class Barco {
