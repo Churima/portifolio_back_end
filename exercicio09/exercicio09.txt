@@ -1,0 +1,6 @@
+Mateus Buogo destacou a importância de pensar em segurança no desenvolvimento das aplicações. Cite pelo menos duas tecnologias que podem ser utilizadas para proteger sistemas de backend contra ataques cibernéticos.
+
+Resposta:
+OAuth 2.0: Um protocolo de autorização amplamente utilizado para garantir que as aplicações de backend só concedam acesso a usuários e serviços autenticados. Ele permite que os usuários autentiquem-se através de um provedor de identidade (como Google ou Facebook) e obtenham tokens de acesso para utilizar em APIs, protegendo assim recursos críticos.
+
+JWT (JSON Web Token): Uma tecnologia utilizada para transmitir informações de forma segura entre partes no backend. O JWT pode ser assinado digitalmente para garantir a integridade e autenticidade das informações, tornando-se uma ferramenta útil para autenticação e autorização, prevenindo fraudes de identidade.
